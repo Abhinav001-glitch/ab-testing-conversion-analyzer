@@ -4,6 +4,8 @@ A data analytics project for evaluating A/B experiments, comparing conversion ra
 
 The project includes a Jupyter Notebook for detailed analysis and a Streamlit app for an interactive dashboard.
 
+Streamlit: https://ab-testing-conversion-analyzer.streamlit.app/
+
 ## Project Features
 
 ### Jupyter Notebook
